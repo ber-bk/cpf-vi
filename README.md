@@ -1,6 +1,6 @@
 CPF Validation Instrument (vi). Simple tool made in python to check if a given CPF ("Cadastro de Pessoa Física") is valid.
 
-It was made with the latest version of python as of October 4th 2023, but it should work without issues on older versions. In order to use it, simply download the .py file and run it.
+It was made with python 3.11, but it should work without issues on older versions. In order to use it, simply download the .py file and run it.
 
 It is licensed under the LGPL-2.1.
 
